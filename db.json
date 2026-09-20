@@ -223,22 +223,6 @@
       "website": "",
       "openingTime": "11:00",
       "closingTime": "22:30"
-    },
-    {
-      "id": "15",
-      "name": "Pathanamthitta Mandi House",
-      "district": "Pathanamthitta",
-      "location": "Pathanamthitta",
-      "mapLink": "https://maps.app.goo.gl/your-link-15",
-      "cuisine": "Arabian",
-      "priceRange": "₹300 - ₹620",
-      "rating": 4.5,
-      "description": "A trusted local mandi restaurant serving aromatic rice and hearty chicken platters.",
-      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de",
-      "phone": "",
-      "website": "",
-      "openingTime": "11:30",
-      "closingTime": "22:30"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
