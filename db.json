@@ -1,22 +1,6 @@
 {
   "mandis": [
     {
-      "name": "Mandi House Palakkad",
-      "district": "Palakkad",
-      "location": "Palakkad Town",
-      "mapLink": "https://maps.app.goo.gl/your-link-1",
-      "description": "Authentic Arabian mandi with traditional flavors and generous portions.",
-      "cuisine": "Arabian",
-      "priceRange": "₹250 - ₹500",
-      "phone": "",
-      "openingTime": "11:00",
-      "closingTime": "23:00",
-      "rating": 4.5,
-      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
-      "website": "",
-      "id": "1"
-    },
-    {
       "id": "2",
       "name": "Arabian Kitchen",
       "district": "Ernakulam",
