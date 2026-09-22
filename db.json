@@ -1,20 +1,20 @@
 {
   "mandis": [
     {
-      "id": "2",
       "name": "Arabian Kitchen",
       "district": "Ernakulam",
       "location": "Kochi",
       "mapLink": "https://maps.app.goo.gl/your-link-2",
+      "description": "Popular mandi destination serving delicious chicken and mutton mandi.❤️",
       "cuisine": "Arabian",
       "priceRange": "₹300 - ₹600",
-      "rating": 4.7,
-      "description": "Popular mandi destination serving delicious chicken and mutton mandi.",
-      "image": "https://images.unsplash.com/photo-1547592180-85f173990554",
       "phone": "",
-      "website": "",
       "openingTime": "11:00",
-      "closingTime": "23:00"
+      "closingTime": "23:00",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554",
+      "website": "",
+      "id": "2"
     },
     {
       "id": "3",
