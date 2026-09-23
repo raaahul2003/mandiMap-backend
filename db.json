@@ -208,6 +208,5 @@
       "openingTime": "11:00",
       "closingTime": "22:30"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
